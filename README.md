@@ -1,6 +1,13 @@
 # DingTalkHelper-X
 钉钉红包助手  
 
+更新助手
+设置中增加红包助手和定位助手的显示配置，用于钉钉设置中的显示
+x.DingTalkHelperX_1-1_iphoneos-arm.deb 
+---------------------------------------------
+
+
+
 抢红包源码来自于:https://github.com/WJustin/DingDingPod 
 
 定位源码来自于:https://github.com/helloiOSer/DingTalkHelper
